@@ -8,7 +8,7 @@ let whistle = function() {
 };
 console.log("premier"); // premier
 console.log("second"); // second
-whistle(); // doot
+greet(); // hello programmeurs
 console.log("third"); // third
 console.log("quatrième"); // quatrième
 whistle(); // doot

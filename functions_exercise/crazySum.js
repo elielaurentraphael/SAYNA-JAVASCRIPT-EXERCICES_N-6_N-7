@@ -7,3 +7,5 @@ let crazySum = function(x, y) {
         return (x + y) * 3;
     }
 };
+
+console.log(crazySum(5, 5));

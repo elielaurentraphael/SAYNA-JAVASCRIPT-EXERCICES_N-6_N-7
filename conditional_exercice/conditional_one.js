@@ -1,4 +1,4 @@
-//code-0-1
+//code-0-1 : foo
 
 if (true) {
     console.log("foo");
@@ -8,7 +8,7 @@ if (false) {
 }
 
 
-//code-0-2
+//code-0-2 : beep
 
 if (false || false) {
     console.log("boop");
@@ -18,7 +18,7 @@ if (true || false) {
 }
 
 
-//code-0-3
+//code-0-3 : zip et zoop
 
 let num = 30;
 if (num > 0) {
@@ -29,7 +29,7 @@ if (num % 2 === 0) {
 }
 
 
-//code-0-4
+//code-0-4 : Pas correct
 
 let word = "jeep";
 if (word[0] === "d") {
@@ -39,7 +39,7 @@ if (word[0] === "d") {
 }
 
 
-//code-0-5
+//code-0-5 : se termine par t , long
 
 let phrase = "roger that";
 if (phrase[phrase.length - 1] === "t") {

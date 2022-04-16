@@ -2,7 +2,7 @@
 // avec votre prédiction.
 
 
-// code 2-1
+// code 2-1 : yeet , nope
 
 let blogging = "Quand la vie vous donne des citrons, faites de la limonade";
 let hasOk = blogging.indexOf("ok") > -1;
@@ -27,7 +27,7 @@ if (hasYou && hasOk) {
 }
 
 
-// code 2-2
+// code 2-2 : either , either , both
 
 let q = 25;
 if (q % 3 === 0 && q % 5 === 0) {

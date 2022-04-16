@@ -4,7 +4,7 @@ Tapez le code ci-dessous dans votre fichier conditional_two.js et comparez le rÃ
 */
 
 
-//code-1-0
+//code-1-0 : no false , qty is greater than zero
 
 let qty = 48;
 if (qty > 30 && qty % 5 === 4) {
@@ -17,7 +17,7 @@ if (qty > 0) {
 }
 
 
-//code-1-1
+//code-1-1 : beta
 
 let a = "apple";
 let b = "MANGUE";
@@ -29,7 +29,7 @@ if (b === b.toUpperCase()) {
 }
 
 
-//code-1-2
+//code-1-2 : ding 
 
 let nombre = 12;
 if (nombre > 4) {
@@ -39,7 +39,7 @@ if (nombre > 4) {
 }
 
 
-//code-1-3
+//code-1-3 : Condition vraie 
 
 let z = 14;
 if (z > 10) {
